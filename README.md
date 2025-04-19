@@ -26,7 +26,7 @@ economic co-operative game
   Each Player is equipped with a virtual & implemented tesseract. The relationsip between the two is binding and can be seen as the same game object.  
   Each tesseract contains a set state who's dominion soley belongs to the parented player.
 
-## Obelisk 
-  A recurring artifact within the game, represents themes of choas, horror, & adversity
+## Monolith 
+  A recurring artifact within the game, represents themes of choas, horror, & power
 
 
