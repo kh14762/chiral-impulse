@@ -5,28 +5,35 @@ economic co-operative game
 
   There are 3 main types of domains.
 
-## Domains
-### home
+##Abstract
+### Domains
+#### home
   A large domain of untapped potential that rewards deeply planned macro-stragetic insight.
-### transport
+#### transport
   A more narrow domain that utilizes a permeable transport membrane & a network of tethers. rewards those who can bridge the gap bewteen tactics & stragety. 
-### fontier
+#### fontier
  An vast infinate domain that is broken into limited, computed, subdomains that rewards fast tactical decision making. 
 
-## Countries & Allience's
+### Countries & Allience's
   Each Player must pledge to country. They may Ally with any other country of their choosing, but must take into consideration the downstream political effects. 
 
-## Player Agency
+### Player Agency
   Each Player must balance the effects of their actions, not withstanding those of maximum harmony or dissonance. 
 
-## Aviary
+### Aviary
   Each Player must pledge to a bird house. 
-  
-## Tesseract
+
+### Monolith 
+  A recurring artifact within the game, represents themes of choas, horror, & power
+
+### Implemented Game Objects  
+#### Tesseract
   Each Player is equipped with a virtual & implemented tesseract. The relationsip between the two is binding and can be seen as the same game object.  
   Each tesseract contains a set state who's dominion soley belongs to the parented player.
 
-## Monolith 
-  A recurring artifact within the game, represents themes of choas, horror, & power
+#### SubStation
+
+
+
 
 
