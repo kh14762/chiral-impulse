@@ -5,10 +5,17 @@ economic co-operative game
 
   There are 3 main types of domains or tesseracts.
 
-## home
+### home
   A large domain of untapped potential that rewards deeply planned macro-stragetic insight.
-## transport
+### transport
   A more narrow domain that utilizes a permeable transport membrane & a network of tethers. rewards those who can bridge the gap bewteen tactics & stragety. 
-## fontier
+### fontier
  A small yet complex domain that rewards fast tactical decision making. 
+
+## Countries & Allience's
+  Each Player must choose a country to represent. They may Ally with any other country of their choosing, but must take into consideration the downstream political effects. 
+
+## Player Agency
+  Each Player must balance the effects of their actions, maintaining the duality of maximum harmony or dissonance. 
+
 
