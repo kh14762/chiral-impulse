@@ -29,13 +29,13 @@ economic co-operative game
 ### Implemented Game Objects  
 #### Tesseract
   Each Player is equipped with a virtual & implemented tesseract. The relationsip between the two is binding and can be seen as the same game object.  
-  Each tesseract contains a set state who's dominion of control soley belongs to the parented player.
+  Each tesseract contains a set state who's dominion of control soley belongs to the parented player. expressed as a cube with a child outlined rendered tesseract. 
 
 #### SubStation
   A cynlindrical vessal composed of different submodules. Can house any player.
 
 #### Harken 743 ("darkstone")
-  A heuristically programmed artificial caretaker that controls substation functionality.
+  A heuristically programmed artificial caretaker that controls substation functionality. expressed as a black tablet with-in the gamworld.
 
 
 
