@@ -32,7 +32,7 @@ economic co-operative game
   Each tesseract contains a set state who's dominion of control soley belongs to the parented player. expressed as a cube with a child outlined rendered tesseract. 
 
 #### SubStation
-  A cynlindrical vessal composed of different submodules. Can house any player. Expressed as a series of linked cabins.
+  A cynlindrical vessal composed of different submodules (cabins). Can house any player; however, each cabin can be configured to suite the needs of the player. Expressed as a series of linked cabins.
 
 #### Harken 743 ("darkstone")
   A heuristically programmed artificial caretaker that controls substation functionality. expressed as a black tablet with-in the gamworld.
