@@ -37,6 +37,8 @@ economic co-operative game
 #### Harken 743 ("darkstone")
   A heuristically programmed artificial caretaker that controls substation functionality. expressed as a black tablet with-in the gamworld.
 
+#### ("seerstone")
+  An optical device that can be used to communicate with other seerstones and monitor constrained yet vast volumes. 
 
 
 
