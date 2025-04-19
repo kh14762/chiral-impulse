@@ -24,5 +24,6 @@ economic co-operative game
   
 ## Tesseract
   Each Player is equipped with a virtual & implemented tesseract. The relationsip between the two is binding and can be seen as the same game object.  
+  Each tesseract contains a set state.
 
 
