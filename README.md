@@ -5,7 +5,7 @@ economic co-operative game
 
   There are 3 main types of domains.
 
-##Abstract
+## Abstract Concepts
 ### Domains
 #### home
   A large domain of untapped potential that rewards deeply planned macro-stragetic insight.
