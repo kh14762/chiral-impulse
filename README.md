@@ -24,7 +24,7 @@ co-operative game
 ### Monolith 
   A recurring artifact within the game, represents themes of choas, horror, & power
 
-### Implemented Game Objects 
+## Implemented Game Objects 
 #### Globe
   Each Player starts at home. 
 #### Space Vessal
