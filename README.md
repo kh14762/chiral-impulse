@@ -31,15 +31,14 @@ co-operative game
   A cynlindrical vessal composed of different submodules (cabin + booster). Expressed as a rocket ship.
 #### SubStation
   A cynlindrical vessal composed of different submodules (cabins). Can house any player; however, each cabin can be configured to suite the needs of the player. Expressed as a series of linked cabins.
-#### Tesseract
-  Each Player is equipped with a virtual & implemented tesseract. The relationsip between them is binding.
+  
+#### Tesseract ("cubestone")
+  Each Player is equipped with a tesseract. The relationsip between them is binding.
   Each tesseract contains a set state who's dominion of control soley belongs to the parented player. 
   Each tesseract is capable of replicating itself over a set duration. 
-  expressed as a cube with a child outlined rendered tesseract. 
-
+  expressed as an equippable cube with a child outlined rendered tesseract. 
 #### Harken 743 ("darkstone")
-  A heuristically programmed artificial caretaker that controls substation functionality. expressed as a black tablet with-in the gamworld.
-
+  A heuristically programmed artificial caretaker that controls substation functionality. Can render images or text on its surface. expressed as a black tablet with-in the gameworld.
 #### ("seerstone")
   An optical device that can be used to communicate with other seerstones and monitor constrained yet vast volumes. Expressed as a dark, inviolable sphere. 
 
