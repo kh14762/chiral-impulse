@@ -1,7 +1,7 @@
 # chiral-impulse
 co-operative game
 
-  You are a group composed of founders, explorers, & sojourners attempting to bring economic prosperity to your country & allies. Adorned with an array of coats, arms, & hats, You must dive into the vast cosmic deep, searching for artifacts and resources to fund more exploration. 
+  You are a group composed of founders, explorers, & sojourners attempting to bring economic prosperity to your country & allies. Adorned with an array of coats, arms, & hats, You must dive into the vast cosmic deep, searching for artifacts and resources to fund your colonization complex. 
 
 ## Abstract Concepts
 ### Domains
