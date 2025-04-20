@@ -1,7 +1,7 @@
 # chiral-impulse
 economic co-operative game
 
-  You are a group composed of founders, explorers, & sojourners attempting to bring economic prosperity to your country & allies. Adorned with an array of coats, arms, & hats, You must collaborate to build the most cost efficient industrial complex in order to explore the deep. Each Player has a specific role or conformation that is chiral to the other players in mathematical weight. Some players are fit to explore a vast cosmic sea, diving for treasures and artifacts in a harsh and hostile environment while others are suited to manage the home domain or interlace networks. 
+  You are a group composed of founders, explorers, & sojourners attempting to bring economic prosperity to your country & allies. Adorned with an array of coats, arms, & hats, You must collaborate to build the most cost efficient industrial complex in order to explore the deep. Each Player has a specific that is chiral to the other players in mathematical weight. Some players are fit to explore a vast cosmic sea, diving for treasures and artifacts in a harsh and hostile environment while others are suited to manage the home domain or interlace networks. 
 
   There are 3 main types of domains.
 
