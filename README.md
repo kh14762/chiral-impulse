@@ -8,11 +8,11 @@ economic co-operative game
 ## Abstract Concepts
 ### Domains
 #### home
-  A large domain of untapped potential that rewards deeply planned macro-stragetic insight.
+  A large domain of untapped potential that makes use of interlace networks, rewards deeply planned macro-stragetic insight.
 #### transport
-  A more narrow domain that utilizes a permeable transport membrane & a network of tethers. rewards those who can bridge the gap bewteen tactics & stragety. 
+  A more narrow domain that utilizes a permeable transport membrane & a tether-network. rewards those who can bridge the gap bewteen tactics & stragety. 
 #### fontier
- An vast infinate domain that is broken into limited, computed, subdomains that rewards fast tactical decision making. 
+ An vast infinate domain that is broken into a network of lattices. Rewards fast tactical decision making. 
 
 ### Countries & Allience's
   Each Player must pledge to country. They may Ally with any other country of their choosing, but must take into consideration the downstream political effects. 
