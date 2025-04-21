@@ -22,7 +22,7 @@ co-operative game
   Each Player must pledge to a bird house. 
 
 ### Monolith 
-  A recurring artifact within the game, represents themes of morality, reflection, and power
+  A recurring geometry within the game, represents themes of morality, reflection, and power
 
 ## Implemented Game Objects 
 #### Globe
