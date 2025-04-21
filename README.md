@@ -23,12 +23,12 @@ co-operative game
 #### [artifact_id][common_name][discovered_by]
 #### [743]["darkstone"]["Harken Trading co."]
   A heuristically programmed artificial caretaker that controls substation functionality. 
-  Can render images or text on its surface. 
-  Can interface with any player in a set range. 
-  Can carry long thought provoking conversations.
-  Can open and close airlocks. 
-  Can auto-pilot vessal.
-  Can log data.
+  render images or text on its surface. 
+  interface with any player in a set range. 
+  carry long thought provoking conversations.
+  open and close airlocks. 
+  auto-pilot vessal.
+  log data.
   expressed as a black tablet.
   #### [313]["seerstone"]["Talkin.net"]
   An optical device that can be used to communicate with other seerstones and monitor vast volumes. 
@@ -36,9 +36,9 @@ co-operative game
   Smaller stones have fixed positions** while larger ones have greater fov.
   Expressed as a dark, inviolable sphere. 
   #### [273]["printstone"]["ICN tech"]
-  Each Player is equipped with a tesseract. The relationsip between them is binding.
-  Each tesseract contains a set of bits that are movable only by the owning player.
-  Each tesseract is capable of replicating itself over a set duration given that it accepts a sufficient amount of matter. 
+  Player is equipped with a printstone. The relationsip between them is binding.
+  printstone contains a set of bits that are movable only by the owning player.
+  printstone is capable of replicating itself over a set duration given that it accepts a sufficient amount of matter. 
   expressed as an equippable mesh cube with a parented tesseract wireframe. 
 
   **place me as a footnote**
