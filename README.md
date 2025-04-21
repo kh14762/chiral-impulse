@@ -41,8 +41,7 @@ co-operative game
   printstone is capable of replicating itself over a set duration given that it accepts a sufficient amount of matter. 
   expressed as an equippable mesh cube with a parented tesseract wireframe. 
 
-  **place me as a footnote**
-  ** image appears blank when viewing from the wrong orientation"
+
   
 
 
