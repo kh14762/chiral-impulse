@@ -17,17 +17,6 @@ co-operative game
   A recurring geometry within the game, represents themes of morality, reflection, and power
 
 ## Implemented Game Objects 
-
-### scenes
-- **home**(home.tscn)
-> Expressed as a spawn array. with an attached globe mesh. Every player spawns here. 
-- **transport**(transport.tscn)
-> Expressed as a summation of booster & cabin components. must always include one one capsule component. 
-- **fontier** (frontier.tscn)
-> Expressed as a substation that 
-
-
-
 #### Globe
   Each Player starts at home. 
 #### Space Vessal
@@ -44,18 +33,17 @@ co-operative game
   Can auto-pilot vessal
   expressed as a black tablet.
 
-  #### ("seerstone") [Discovered by Earth.gov]
+  #### Artifact 313 ("seerstone") [Discovered by Earth.gov]
   An optical device that can be used to communicate with other seerstones and monitor vast volumes. 
   Must orbit the sphere to gain different pov.
   Smaller stones have fixed positions** while larger ones have greater fov.
   Expressed as a dark, inviolable sphere. 
 
-  #### Tesse 273 ("printstone") [Discovered by ICN tech]
+  #### Artifact 273 ("printstone") [Discovered by ICN tech]
   Each Player is equipped with a tesseract. The relationsip between them is binding.
-  Each tesseract contains a set state who's dominion of control soley belongs to the parented player. 
+  Each tesseract contains a set of wireframe game pieces that are movable only by the owning player.
   Each tesseract is capable of replicating itself over a set duration. 
   expressed as an equippable mesh cube with a parented tesseract wireframe. 
-  
 
   **place me as a footnote**
   ** image appears blank when viewing from the wrong orientation"
