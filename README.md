@@ -23,17 +23,20 @@ co-operative game
   A cynlindrical vessal composed of different submodules (cabin + booster). Expressed as a rocket ship.
 #### SubStation
   A cynlindrical vessal composed of different submodules (cabins). Can house any player; however, each cabin can be configured to suite the needs of the player. Expressed as a series of linked cabins.
+
+  [artifact_id][common_name][discovered_by]
   
-#### Harken 743 ("darkstone") [Discovered by Harken Trading co.]
+#### [743][darkstone][Harken Trading co.]
   A heuristically programmed artificial caretaker that controls substation functionality. 
   Can render images or text on its surface. 
   Can interface with any player in a set range. 
   Can carry long thought provoking conversations.
   Can open and close airlocks. 
-  Can auto-pilot vessal
+  Can auto-pilot vessal.
+  Can log data.
   expressed as a black tablet.
 
-  #### Artifact 313 ("seerstone") [Discovered by Earth.gov]
+  #### Artifact 313 ("seerstone") [Talkin.net]
   An optical device that can be used to communicate with other seerstones and monitor vast volumes. 
   Must orbit the sphere to gain different pov.
   Smaller stones have fixed positions** while larger ones have greater fov.
@@ -41,8 +44,8 @@ co-operative game
 
   #### Artifact 273 ("printstone") [Discovered by ICN tech]
   Each Player is equipped with a tesseract. The relationsip between them is binding.
-  Each tesseract contains a set of wireframe game pieces that are movable only by the owning player.
-  Each tesseract is capable of replicating itself over a set duration. 
+  Each tesseract contains a set of bits that are movable only by the owning player.
+  Each tesseract is capable of replicating itself over a set duration given that it accepts a sufficient amount of matter. 
   expressed as an equippable mesh cube with a parented tesseract wireframe. 
 
   **place me as a footnote**
