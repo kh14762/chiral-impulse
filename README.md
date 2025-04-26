@@ -22,24 +22,24 @@ co-operative game
 
 #### [artifact_id][common_name][discovered_by]
 #### [743]["darkstone"]["Harken Trading co."]
-  A heuristically programmed artificial caretaker that controls substation functionality. 
-  render images or text on its surface. 
+  A programmed artificial caretaker that controls substation functionality. 
+  renders 3D objects.
   interface with any player in a set range. 
-  carry long thought provoking conversations.
+  can carry long thought provoking conversations.
   open and close airlocks. 
   auto-pilot vessal.
   log data.
-  expressed as a black tablet.
+  expressed as a black holo tablet.
   #### [313]["seerstone"]["Talkin.net"]
   An optical device that can be used to communicate with other seerstones and monitor vast volumes. 
   Must orbit the sphere to gain different pov.
   Smaller stones have fixed positions** while larger ones have greater fov.
-  Expressed as a dark, inviolable sphere. 
+  Expressed as a dark, inviolable holo sphere. 
   #### [273]["printstone"]["ICN tech"]
   Player is equipped with a printstone. The relationsip between them is binding.
   printstone contains a set of bits that are movable only by the owning player.
-  printstone is capable of replicating itself over a set duration given that it accepts a sufficient amount of matter. 
-  expressed as an equippable mesh cube with a parented tesseract wireframe. 
+  printstone is capable of replicating itself over a set duration given
+  expressed as holo.
 
 
   
