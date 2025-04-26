@@ -15,10 +15,10 @@ co-operative game
 ## Implemented Game Objects 
 #### Globe
   Each Player starts at home. Earth.
-#### Space Vessal
-  A cynlindrical vessal composed of different submodules (cabin + booster). rocket ship.
+#### Vessal
+  A cynlindrical vessal composed of different submodules (capsul + cabin + propulsion).
 #### SubStation
-  A cynlindrical vessal composed of different submodules (cabins). Can house any player; however, each cabin can be configured to suite the needs of the player. Expressed as a series of linked cabins. space-station.
+  A cynlindrical vessal composed of different submodules (cabins). Can house any player; however, each cabin can be configured to suite the needs of the player. Expressed as a series of linked cabins. 
 
 #### [artifact_id][common_name][discovered_by]
 - All artifacts are inviolable
