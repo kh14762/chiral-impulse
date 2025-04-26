@@ -22,25 +22,26 @@ co-operative game
 
 #### [artifact_id][common_name][discovered_by]
 - All artifacts are inviolable
+-  interface with any player or artifact in a set range. 
 #### [743]["darkstone"]["Harken Trading co."]
   A programmed artificial caretaker that controls substation functionality. Linguists have spent decades attempting to decompile its code but little progress has been made.
   renders 3D objects.
-  interface with any player in a set range. 
   can carry long thought provoking conversations.
   open and close airlocks. 
   auto-pilot vessal.
   log data.
-  expressed as a black holo tablet.
+  tablet.
   #### [313]["seerstone"]["Talkin.net"]
-  An optical device that can be used to communicate with other seerstones and monitor vast volumes. 
+  An optical device that can be used to communicate with other seerstones over infinte rang with zero latency. 
+  Monitors vast volumes. 
   Must orbit the sphere to gain different pov.
   Smaller stones have fixed positions** while larger ones have greater fov.
-  Expressed as a dark, inviolable holo sphere. 
+  dark, sphere. 
   #### [273]["printstone"]["ICN tech"]
   Player is equipped with a printstone. The relationsip between them is binding.
   printstone contains a set of bits that are movable only by the owning player.
   printstone is capable of replicating itself over a set duration.
-  expressed as holo cube.
+  cube.
 
 
   
