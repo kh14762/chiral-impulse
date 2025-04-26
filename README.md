@@ -29,7 +29,7 @@ co-operative game
 [^1]: _italic_
 
   | ID |  Name | Class | Disoverer | 
-|:-----|:--------:|------:|
+|:-----|:--------:|------:|------:|
 | 743   | **dark** | stone | ICN tech | 
 | 313   |  **seer** | stone | Talkin.net |
 | 273   | **print** | stone | Harken Trading co. |
