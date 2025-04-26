@@ -21,6 +21,7 @@ co-operative game
   A cynlindrical vessal composed of different submodules (cabins). Can house any player; however, each cabin can be configured to suite the needs of the player. Expressed as a series of linked cabins. space-station.
 
 #### [artifact_id][common_name][discovered_by]
+- All artifacts are inviolable
 #### [743]["darkstone"]["Harken Trading co."]
   A programmed artificial caretaker that controls substation functionality. Linguists have spent decades attempting to decompile its code but little progress has been made.
   renders 3D objects.
