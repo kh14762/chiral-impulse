@@ -28,75 +28,42 @@ co-operative game
 [^1]: `code`  
 [^1]: _italic_
 
-  | ID |  Name  | Disoverer | 
+  | ID |  Name | Class | Disoverer | 
 |:-----|:--------:|------:|
-| 743   | **darkstone** | ICN tech | 
-| 313   |  **seerstone**  | Talkin.net |
-| 273   | **printstone** | Harken Trading co. |
-| 412   | **gatestone** | Schell corp. |
+| 743   | **dark** | stone | ICN tech | 
+| 313   |  **seer** | stone | Talkin.net |
+| 273   | **print** | stone | Harken Trading co. |
+| 412   | **gate** | stone | Schell corp. |
 
-#### DarkStone
+#### Dark
   _A programmed artificial caretaker that controls substation functionality. Linguists have spent decades attempting to decompile its image but little progress has been made_.
   - can carry long thought provoking conversations.
   - Has the same access privledge as a pilot.
   - tablet.
 
-  #### SeerStone
+  #### Seer
   _An optical device that can be used to communicate with other seerstones over infinte rang with zero latency_.  
   - Monitors vast volumes. 
   - Must orbit the sphere to gain different pov.
   - Smaller stones have fixed positions** while larger ones have greater fov.
   - sphere. 
 
-  #### PrintStone
+  #### Print
   _Player is equipped with a printstone. The relationsip between them is binding_.
   - contains a set of heuristic bits that are movable only by the owning player.
   - is capable of replicating itself over a set duration.
   - cube.
 
-  #### GateStone
+  #### Gate
    - A device that can relay interactions between artifacts and players
    - 7 configurations
    - cylindar
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
 
-  .markdown-body .rdmd-table {
-  --table-text: black;
-  --table-head: #5b1c9f;
-  --table-head-text: white;
-  --table-stripe: #f0eaf7;
-  --table-edges: rgba(34, 5, 64, 0.5);
-  --table-row: white;
-}
 
-/* Table
- */
-.markdown-body .rdmd-table table {}
-
-/* Rows
- */
-.markdown-body .rdmd-table tr {}
-.markdown-body .rdmd-table thead tr {}
-/* header row's background */
-.markdown-body .rdmd-table tr:nth-child(2n) {}
-/* striped rows' background */
-
-/* Cells
- */
-.markdown-body .rdmd-table th {}
-.markdown-body .rdmd-table td {}
-
-}
-}
 ```
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media 
+```
+
 
 
 
