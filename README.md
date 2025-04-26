@@ -47,12 +47,12 @@ _italic_
   - Smaller stones have fixed positions** while larger ones have greater fov.
   - sphere. 
 
-
   #### PrintStone
   _Player is equipped with a printstone. The relationsip between them is binding_.
   - printstone contains a set of bits that are movable only by the owning player.
   - printstone is capable of replicating itself over a set duration.
   - cube.
+
 ```
 {
   "firstName": "John",
@@ -88,6 +88,10 @@ _italic_
 }
 }
 ```
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media 
 
 
 
