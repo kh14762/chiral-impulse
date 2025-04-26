@@ -22,7 +22,7 @@ co-operative game
 
 #### [artifact_id][common_name][discovered_by]
 #### [743]["darkstone"]["Harken Trading co."]
-  A programmed artificial caretaker that controls substation functionality. 
+  A programmed artificial caretaker that controls substation functionality. Linguists have spent decades attempting to decompile its code but little progress has been made.
   renders 3D objects.
   interface with any player in a set range. 
   can carry long thought provoking conversations.
