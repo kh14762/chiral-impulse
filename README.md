@@ -56,7 +56,6 @@ co-operative game
 
   #### GateStone
    - A device that can relay interactions between artifacts and players
-   - can route interactions to artifacts
    - 7 configurations
    - cylindar
 ```
