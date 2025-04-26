@@ -58,8 +58,6 @@ co-operative game
    - A device that can relay interactions between artifacts and players
    - 7 configurations
    - cylindar
-
-
 ```
 
 ```
