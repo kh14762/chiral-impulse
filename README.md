@@ -50,6 +50,32 @@ co-operative game
   printstone is capable of replicating itself over a set duration.
   cube.
 
+  .markdown-body .rdmd-table {
+  --table-text: black;
+  --table-head: #5b1c9f;
+  --table-head-text: white;
+  --table-stripe: #f0eaf7;
+  --table-edges: rgba(34, 5, 64, 0.5);
+  --table-row: white;
+}
+
+/* Table
+ */
+.markdown-body .rdmd-table table {}
+
+/* Rows
+ */
+.markdown-body .rdmd-table tr {}
+.markdown-body .rdmd-table thead tr {}
+/* header row's background */
+.markdown-body .rdmd-table tr:nth-child(2n) {}
+/* striped rows' background */
+
+/* Cells
+ */
+.markdown-body .rdmd-table th {}
+.markdown-body .rdmd-table td {}
+
 
   
 
