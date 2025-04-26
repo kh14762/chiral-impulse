@@ -22,7 +22,7 @@ co-operative game
 
 #### [artifact_id][common_name][discovered_by]
 - All artifacts are inviolable
--  interface with any player or artifact in a set range. 
+- can interface with any player or artifact in a set range. 
 #### [743]["darkstone"]["Harken Trading co."]
   A programmed artificial caretaker that controls substation functionality. Linguists have spent decades attempting to decompile its code but little progress has been made.
   renders 3D objects.
@@ -31,6 +31,13 @@ co-operative game
   auto-pilot vessal.
   log data.
   tablet.
+
+| Left |  Center  | Right |
+|:-----|:--------:|------:|
+| L0   | **bold** | 1 |
+| L1   |  `code`  | 1 |
+| L2   | _italic_ | 1 |
+  
   #### [313]["seerstone"]["Talkin.net"]
   An optical device that can be used to communicate with other seerstones over infinte rang with zero latency. 
   Monitors vast volumes. 
