@@ -30,9 +30,9 @@ co-operative game
 
   | ID |  Name  | Disoverer | 
 |:-----|:--------:|------:|
-| 743   | **darkstone** | Harken Trading co. | 
+| 743   | **darkstone** | ICN tech | 
 | 313   |  **seerstone**  | Talkin.net |
-| 273   | **printstone** | ICN tech |
+| 273   | **printstone** | Harken Trading co. |
 | 412   | **gatestone** | Schell corp. |
 
 #### DarkStone
@@ -50,7 +50,7 @@ co-operative game
 
   #### PrintStone
   _Player is equipped with a printstone. The relationsip between them is binding_.
-  - contains a set of bits that are movable only by the owning player.
+  - contains a set of heuristic bits that are movable only by the owning player.
   - is capable of replicating itself over a set duration.
   - cube.
 
