@@ -10,7 +10,7 @@ co-operative game
 ### Aviary
   Each Player must pledge to a bird house. 
 ### Monolith 
-  A recurring geometry within the game, represents themes of morality, reflection, and power
+  recurring set of geometry within the game, represents themes of morality, reflection, and power
 
 ## Implemented Game Objects 
 #### Globe
@@ -24,15 +24,16 @@ co-operative game
 - All artifacts are inviolable
 - can interface with any player or artifact in a set range.
 
-**bold**
-`code`  
-_italic_
+[^1]: **bold**
+[^1]: `code`  
+[^1]: _italic_
 
   | ID |  Name  | Disoverer | 
 |:-----|:--------:|------:|
 | 743   | **darkstone** | Harken Trading co. | 
 | 313   |  **seerstone**  | Talkin.net |
 | 273   | **printstone** | ICN tech |
+| 412   | **gatestone** | Schell corp. |
 
 #### DarkStone
   _A programmed artificial caretaker that controls substation functionality. Linguists have spent decades attempting to decompile its image but little progress has been made_.
@@ -49,10 +50,15 @@ _italic_
 
   #### PrintStone
   _Player is equipped with a printstone. The relationsip between them is binding_.
-  - printstone contains a set of bits that are movable only by the owning player.
-  - printstone is capable of replicating itself over a set duration.
+  - contains a set of bits that are movable only by the owning player.
+  - is capable of replicating itself over a set duration.
   - cube.
 
+  #### GateStone
+   - A device that can relay interactions between artifacts and players
+   - can route interactions to artifacts
+   - 7 configurations
+   - cylindar
 ```
 {
   "firstName": "John",
