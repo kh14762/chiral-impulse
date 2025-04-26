@@ -35,30 +35,24 @@ _italic_
 | 273   | **printstone** | ICN tech |
 
 #### DarkStone
-  _A programmed artificial caretaker that controls substation functionality. Linguists have spent decades attempting to decompile its image but little progress has been made.
-  renders 3D objects.
-  can carry long thought provoking conversations.
-  open and close airlocks. 
-  auto-pilot vessal.
-  log data.
-  tablet_.
+  _A programmed artificial caretaker that controls substation functionality. Linguists have spent decades attempting to decompile its image but little progress has been made_.
+  - can carry long thought provoking conversations.
+  - Has the same access privledge as a pilot.
+  - tablet.
 
-
-  
   #### SeerStone
-  _An optical device that can be used to communicate with other seerstones over infinte rang with zero latency. 
-  Monitors vast volumes. 
-  Must orbit the sphere to gain different pov.
-  Smaller stones have fixed positions** while larger ones have greater fov.
-  dark, sphere_. 
+  _An optical device that can be used to communicate with other seerstones over infinte rang with zero latency_.  
+  - Monitors vast volumes. 
+  - Must orbit the sphere to gain different pov.
+  - Smaller stones have fixed positions** while larger ones have greater fov.
+  - sphere. 
 
 
   #### PrintStone
-  _Player is equipped with a printstone. The relationsip between them is binding.
-  printstone contains a set of bits that are movable only by the owning player.
-  printstone is capable of replicating itself over a set duration.
-  cube_.
-
+  _Player is equipped with a printstone. The relationsip between them is binding_.
+  - printstone contains a set of bits that are movable only by the owning player.
+  - printstone is capable of replicating itself over a set duration.
+  - cube.
 ```
 {
   "firstName": "John",
