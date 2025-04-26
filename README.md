@@ -34,30 +34,30 @@ _italic_
 | 313   |  **seerstone**  | Talkin.net |
 | 273   | **printstone** | ICN tech |
 
-#### [743]["darkstone"]["Harken Trading co."]
-  A programmed artificial caretaker that controls substation functionality. Linguists have spent decades attempting to decompile its image but little progress has been made.
+#### DarkStone
+  _A programmed artificial caretaker that controls substation functionality. Linguists have spent decades attempting to decompile its image but little progress has been made.
   renders 3D objects.
   can carry long thought provoking conversations.
   open and close airlocks. 
   auto-pilot vessal.
   log data.
-  tablet.
+  tablet_.
 
 
   
-  #### [313]["seerstone"]["Talkin.net"]
-  An optical device that can be used to communicate with other seerstones over infinte rang with zero latency. 
+  #### SeerStone
+  _An optical device that can be used to communicate with other seerstones over infinte rang with zero latency. 
   Monitors vast volumes. 
   Must orbit the sphere to gain different pov.
   Smaller stones have fixed positions** while larger ones have greater fov.
-  dark, sphere. 
+  dark, sphere_. 
 
 
-  #### [273]["printstone"]["ICN tech"]
-  Player is equipped with a printstone. The relationsip between them is binding.
+  #### PrintStone
+  _Player is equipped with a printstone. The relationsip between them is binding.
   printstone contains a set of bits that are movable only by the owning player.
   printstone is capable of replicating itself over a set duration.
-  cube.
+  cube_.
 
 ```
 {
