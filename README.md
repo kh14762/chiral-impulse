@@ -38,8 +38,8 @@ co-operative game
   #### [273]["printstone"]["ICN tech"]
   Player is equipped with a printstone. The relationsip between them is binding.
   printstone contains a set of bits that are movable only by the owning player.
-  printstone is capable of replicating itself over a set duration given
-  expressed as holo.
+  printstone is capable of replicating itself over a set duration.
+  expressed as holo cube.
 
 
   
