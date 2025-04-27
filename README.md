@@ -32,7 +32,7 @@ co-operative game
 |:-----|:--------:|------:|------:|
 | 743   | **dark** | stone | ICN tech | 
 | 313   |  **seer** | stone | Talkin.net |
-| 273   | **print** | stone | Harken Trading co. |
+| 273   | **print** | stone | Harken co. |
 | 412   | **gate** | stone | Schell corp. |
 
 #### Dark
