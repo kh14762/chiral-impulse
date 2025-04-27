@@ -1,6 +1,6 @@
 # chiral-impulse
 co-operative game
-  You are a group composed of founders, explorers, & sojourners attempting to bring economic prosperity to your country & allies. Adorned with an array of coats, arms, & hats, You must dive into the vast cosmic deep, searching for artifacts and resources to fund your colonization complex. 
+  You are a group composed of founders, explorers, & sojourners attempting to bring economic prosperity to your country & allies. Adorned with an array of coats, arms, & hats, You must dive into the vast deep, searching for artifacts and resources to fund your colonization complex. 
 
 ## Abstract Concepts
 ### Countries & Allience's
@@ -21,10 +21,12 @@ co-operative game
   A cynlindrical vessal composed of different submodules (cabins). Can house any player; however, each cabin can be configured to suite the needs of the player. Expressed as a series of linked cabins. 
 
 #### [artifact_id][common_name][discovered_by]
-_Artifacts 
+_Artifacts are expressed as phantom, Opaque, Objects. They are said to be long lost tools of an extraterristrial race_
+They are massless and produce no measureable output besides being visible by humans. Given enough will a human may tether to it and utilize it's functionality. 
+The artifact will follow the tethered player. 
 
 - All artifacts are inviolable
-- can interface with any player or artifact in a set range.
+- can interface with the tethered player or other artifacts in a set range.
 
 [^1]: **bold**
 [^1]: `code`  
