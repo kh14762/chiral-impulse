@@ -33,7 +33,7 @@ co-operative game
 | 743   | **dark** | stone | ICN tech | 
 | 313   |  **seer** | stone | Talkin.net |
 | 273   | **print** | stone | Harken co. |
-| 412   | **gate** | stone | Schell corp. |
+| 412   | **platonic** | stone | Schell corp. |
 
 #### Dark
   _A programmed artificial caretaker that controls substation functionality. Linguists have spent decades attempting to decompile its image but little progress has been made_.
@@ -54,10 +54,22 @@ co-operative game
   - is capable of replicating itself over a set duration.
   - cube.
 
-  #### Gate
+  #### Platonic
+  _Printers can construct platonic stones, these are accounted for as bits by the printer_
    - A device that can relay interactions between artifacts and players
-   - 7 configurations
-   - cylindar
+   - 5 configurations
+
+**Organized by cost**
+ | Platonic Solid | Vertices | Edges | Unique Hamiltonian Cycles | 
+|:-----:|:-----:|:--------:|:------:|
+| Tetrahedron | 4 | 6 | 1 |
+| Octohedron | 6 | 12 | 2 |
+| Cube | 8 | 12 | 4 |
+| Isohedron | 12 | 30 | 256 |
+| Dodecahedron | 20 | 30 | 2048 |
+
+  - Each bit can collapse into a weighted outcome.
+https://anydice.com/
 ```
 
 ```
