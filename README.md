@@ -68,7 +68,7 @@ co-operative game
 | Isohedron | 12 | 30 | 256 |
 | Dodecahedron | 20 | 30 | 2048 |
 
-  - Each bit can collapse into a weighted outcome.
+  - adding the stone' outputs can produce distributed outcomes.
 https://anydice.com/
 ```
 
