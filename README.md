@@ -21,6 +21,8 @@ co-operative game
   A cynlindrical vessal composed of different submodules (cabins). Can house any player; however, each cabin can be configured to suite the needs of the player. Expressed as a series of linked cabins. 
 
 #### [artifact_id][common_name][discovered_by]
+_Artifacts 
+
 - All artifacts are inviolable
 - can interface with any player or artifact in a set range.
 
@@ -36,9 +38,9 @@ co-operative game
 | 412   | **platonic** | stone | Schell corp. |
 
 #### Dark
-  _A programmed artificial caretaker that controls substation functionality. Linguists have spent decades attempting to decompile its image but little progress has been made_.
+  _A seemingly sentiant caretaker that controls substation functionality. Linguists have spent decades attempting to decompile its image but little progress has been made_.
   - can carry long thought provoking conversations.
-  - Has the same access privledge as a pilot.
+  - Has the same access as a pilot.
   - tablet.
 
   #### Seer
@@ -50,13 +52,13 @@ co-operative game
 
   #### Print
   _Player is equipped with a printstone. The relationsip between them is binding_.
-  - contains a set of heuristic bits that are movable only by the owning player.
+  - contains a set of place-able platonic stone, move-able only by the owning player.
   - is capable of replicating itself over a set duration.
   - cube.
 
   #### Platonic
   _Printers can construct platonic stones, these are accounted for as bits by the printer_
-   - A device that can relay interactions between artifacts and players
+   - A stone that can relay interactions between artifacts and players
    - 5 configurations
 
 **Organized by cost**
