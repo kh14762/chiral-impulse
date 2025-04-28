@@ -54,8 +54,8 @@ The artifact will follow the tethered player.
 
   #### Print
   _Player is equipped with a printstone. The relationsip between them is binding_.
-  - contains a set of place-able platonic stone, move-able only by the owning player.
-  - is capable of replicating itself over a set duration.
+  - contains a set of place-able platonic stones, move-able only by the owning player.
+  - is capable of constructing stones.
   - cube.
 
   #### Platonic
@@ -72,8 +72,8 @@ The artifact will follow the tethered player.
 | Isohedron | 12 | 30 | 256 |
 | Dodecahedron | 20 | 30 | 2048 |
 
-  - adding the stone' outputs can produce distributed outcomes.
-https://anydice.com/
+  - adding the stone's outputs can produce distributed outcomes.
+https://anydice.com/ by Jasper Flick
 ```
 
 ```
