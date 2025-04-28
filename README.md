@@ -21,8 +21,8 @@ co-operative game
   A cynlindrical vessal composed of different submodules (cabins). Can house any player; however, each cabin can be configured to suite the needs of the player. Expressed as a series of linked cabins. 
 
 #### [artifact_id][common_name][discovered_by]
-_Artifacts are expressed as phantom, Opaque, Objects. They are said to be long lost tools of an extraterristrial race_
-They are massless and produce no measureable output besides being visible by humans. Given enough will a human may tether to it and utilize it's functionality. 
+_Artifacts are expressed as phantom, Opaque, Objects. They are said to be long lost tools of an ancient extraterristrial race_
+They are massless and produce no measureable output besides being visible to only humans. Given enough will a human may tether to it and utilize it's functionality. 
 The artifact will follow the tethered player. 
 
 - All artifacts are inviolable
@@ -72,8 +72,9 @@ The artifact will follow the tethered player.
 | Isohedron | 12 | 30 | 256 |
 | Dodecahedron | 20 | 30 | 2048 |
 
-  - adding the stone's outputs can produce distributed outcomes.
 https://anydice.com/ by Jasper Flick
+  - adding the stone's outputs can produce distribution curves.
+
 ```
 
 ```
