@@ -63,10 +63,9 @@ _Artifacts are expressed as phantom, Opaque, Objects. They are said to be long l
   #### Gate
   _Printers can construct gate stones, given enough elements, these are accounted for as bits by the printer_
    - A stone that can relay interactions between artifacts and players
-   - 5 configurations
 
 **Ordered by cost**
- |  | Vertices | Edges | Unique Hamiltonian Cycles? | Hamiltonian cycle count	|
+ | Gate | Vertices | Edges | Unique Hamiltonian Cycles? | Hamiltonian cycle count	|
 |:-----:|:-----:|:--------:|:------:|:------:|
 | **Tetrahedron** | 4 | 6 | 1 | |
 | **Octohedron** | 6 | 12 | 2 | |
