@@ -55,15 +55,15 @@ The artifact will follow the tethered player.
   #### Print
   _Player is equipped with a printstone. The relationsip between them is binding_.
   - contains a set of place-able platonic stones, move-able only by the owning player.
-  - is capable of constructing stones.
+  - is capable of constructing gate stones in a 1 turn step (ts) & a perfect copy of itself in 4 (ts).
   - cube.
 
-  #### Platonic
-  _Printers can construct platonic stones, these are accounted for as bits by the printer_
+  #### Gate
+  _Printers can construct gate stones, given enough elements, these are accounted for as bits by the printer_
    - A stone that can relay interactions between artifacts and players
    - 5 configurations
 
-**Organized by cost**
+**Ordered by cost**
  | Platonic Solid | Vertices | Edges | Unique Hamiltonian Cycles | 
 |:-----:|:-----:|:--------:|:------:|
 | Tetrahedron | 4 | 6 | 1 |
