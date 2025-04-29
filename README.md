@@ -66,7 +66,7 @@ _Artifacts are expressed as phantom, Opaque, Objects. They are said to be long l
      
 _Both Paths(open/0) & Circuits(closed/1) are hamiltonian_
 **Ordered by cost**
- | Gate | Vertices | Edges | Paths | Unique Circuits? | Total? |
+ | Gate | Vertices | Edges | Paths | Unique Circuits? | Circuits? | 
 |:-----:|:-----:|:--------:|:------:|:------:|:------:|
 | **Tetrahedron** | 4 | 6 | | 1 | |
 | **Octohedron** | 6 | 12 | | 2 | |
