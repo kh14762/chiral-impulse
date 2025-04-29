@@ -77,8 +77,8 @@ _Both Paths(open/0) & Circuits(closed/1) are hamiltonian_
 - Every platonic solid, considered as a graph, is Hamiltonian
 
 https://anydice.com/ by Jasper Flick
-  - adding the stone's outputs can produce distributed outcomes.
-  - distributions can be shaped by applying functions to logical constraints
+  - adding the stone's outputs if weighted can produce distributed outcomes.
+  - distributions can be shaped by applying functions to logically constrainted inputs.
   - Each Path is a collection of point vectors that are constrained to the geometry (Open/Off/0)
   - Each Circuit is a collection of directional vectors that are constrained to the geometry (Closed/On/1)
 ```
