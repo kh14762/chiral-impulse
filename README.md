@@ -66,6 +66,12 @@ _Artifacts are expressed as phantom, Opaque, Objects. They are said to be long l
    - A stone that can relay interactions between artifacts and players
      
 _Both Paths(open/0) & Circuits(closed/1) are hamiltonian_
+
+
+_Hamiltonian circuit ~ a cycle (path ending in the same vertex it starts) that visits every vertex (n
+edges);_
+_Hamiltonian path ~ a path that visits every vertex (n−1 edges)._
+
 **Ordered by cost**
  | Gate | Vertices | Edges | Paths | Unique Circuits? | Circuits? | 
 |:-----:|:-----:|:--------:|:------:|:------:|:------:|
