@@ -74,6 +74,7 @@ The artifact will follow the tethered player.
 
 https://anydice.com/ by Jasper Flick
   - adding the stone's outputs can produce distribution curves.
+  - Each Hamiltonian Cycle is an equivalent, unique, lattice network. 
 
 ```
 
