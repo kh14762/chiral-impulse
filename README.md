@@ -70,12 +70,14 @@ The artifact will follow the tethered player.
 | Octohedron | 6 | 12 | 2 | |
 | Cube | 8 | 12 | 4 | |
 | Isohedron | 12 | 30 | 256 | 2560 |
-| Dodecahedron | 20 | 30 | | 2048 |
+| Dodecahedron | 20 | 30 | 2048 | 2048 |
 
 https://anydice.com/ by Jasper Flick
   - adding the stone's outputs can produce distribution curves.
-  - Each Hamiltonian Cycle is an equivalent, lattice network. 
-  - 
+  - distribution can be shaped by applying functions to logical constraints
+  - Each Hamiltonian Cycle is a vecter path that is constrained to the geometry
+  - Finding symmetry is key.
+  - vertice & edge can be assigned weights.
 ```
 
 ```
