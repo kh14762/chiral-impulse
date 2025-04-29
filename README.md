@@ -66,7 +66,7 @@ _Artifacts are expressed as phantom, Opaque, Objects. They are said to be long l
    - 5 configurations
 
 **Ordered by cost**
- | Name | Vertices | Edges | Unique Hamiltonian Cycles? | Hamiltonian cycle count	|
+ |  | Vertices | Edges | Unique Hamiltonian Cycles? | Hamiltonian cycle count	|
 |:-----:|:-----:|:--------:|:------:|:------:|
 | **Tetrahedron** | 4 | 6 | 1 | |
 | **Octohedron** | 6 | 12 | 2 | |
