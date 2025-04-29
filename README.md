@@ -33,7 +33,7 @@ _Artifacts are expressed as phantom, Opaque, Objects. They are said to be long l
 [^1]: **bold**
 [^1]: `code`  
 [^1]: _italic_
-הֵילֵל
+[^1]: הֵילֵל
 
   | ID |  Name | Class | Disoverer | 
 |:-----|:--------:|------:|------:|
