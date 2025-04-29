@@ -75,8 +75,8 @@ The artifact will follow the tethered player.
 https://anydice.com/ by Jasper Flick
   - adding the stone's outputs can produce distribution curves.
   - distributions can be shaped by applying functions to logical constraints
-  - Each Hamiltonian Path is a collection of vectors that are constrained to the geometry (Open)
-  - Each Emiltonian Circuit is a collection of vectors that are constrained to the geometry (Closed)
+  - Each Hamiltonian Path is a collection of vectors that are constrained to the geometry (Open off 0)
+  - Each Emiltonian Circuit is a collection of vectors that are constrained to the geometry (Closed on 1)
 ```
 
 ```
