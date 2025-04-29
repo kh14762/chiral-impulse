@@ -22,8 +22,10 @@ co-operative game
 
 #### [artifact_id][common_name][discovered_by]
 _Artifacts are expressed as phantom, Opaque, Objects. They are said to be long lost tools of an ancient extraterristrial race_
-They are massless and produce no measureable output besides being visible to only humans. Given enough will a human may tether to it and utilize it's functionality. 
-The artifact will follow the tethered player. 
+- They are massless and produce no measureable outputs including photographic
+- Are only preceived by the human visual cortex
+- Given enough will a human may tether to it and utilize it's functionality. 
+- The artifact will follow the tethered player. 
 
 - All artifacts are inviolable
 - can interface with the tethered player or other artifacts in a set range.
