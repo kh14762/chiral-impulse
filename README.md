@@ -43,20 +43,20 @@ The artifact will follow the tethered player.
   _A seemingly sentiant caretaker that controls substation functionality. Linguists have spent decades attempting to decompile its image but little progress has been made_.
   - can carry long thought provoking conversations.
   - Has the same access as a pilot.
-  - tablet.
+  - **Tablet**.
 
   #### Seer
   _An optical device that can be used to communicate with other seerstones over infinte rang with zero latency_.  
   - Monitors vast volumes. 
   - Must orbit the sphere to gain different pov.
   - Smaller stones have fixed positions** while larger ones have greater fov.
-  - sphere. 
+  - **Sphere**.
 
   #### Print
   _Player is equipped with a printstone. The relationsip between them is binding_.
   - contains a set of place-able gate stones, move-able only by the owning player.
   - is capable of constructing gate stones in a 1 turn step (ts) & a perfect copy of itself in 4 (ts).
-  - cube.
+  - **Cube**.
 
   #### Gate
   _Printers can construct gate stones, given enough elements, these are accounted for as bits by the printer_
@@ -66,14 +66,14 @@ The artifact will follow the tethered player.
 **Ordered by cost**
  | Name | Vertices | Edges | Unique Hamiltonian Cycles? | Hamiltonian cycle count	|
 |:-----:|:-----:|:--------:|:------:|:------:|
-| Tetrahedron | 4 | 6 | 1 | |
-| Octohedron | 6 | 12 | 2 | |
-| Cube | 8 | 12 | 4 | |
-| Isohedron | 12 | 30 | 256 | 2560 |
-| Dodecahedron | 20 | 30 | 2048 | 2048 |
+| **Tetrahedron** | 4 | 6 | 1 | |
+| **Octohedron** | 6 | 12 | 2 | |
+| **Cube** | 8 | 12 | 4 | |
+| **Isohedron** | 12 | 30 | 256 | 2560 |
+| **Dodecahedron** | 20 | 30 | 2048 | 2048 |
 
 https://anydice.com/ by Jasper Flick
-  - adding the stone's outputs can produce distribution curves.
+  - adding the stone's outputs can produce distributed outcomes.
   - distributions can be shaped by applying functions to logical constraints
   - Each Hamiltonian Path is a collection of vectors that are constrained to the geometry (Open/Off/0)
   - Each Hamiltonian Circuit is a collection of vectors that are constrained to the geometry (Closed/On/1)
