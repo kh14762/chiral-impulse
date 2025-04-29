@@ -64,12 +64,12 @@ The artifact will follow the tethered player.
    - 5 configurations
 
 **Ordered by cost**
- | Platonic Solid | Vertices | Edges | Unique Hamiltonian Cycles | 
+ | Platonic Solid | Vertices | Edges | Unique Hamiltonian Cycles? | Hamiltonian cycle count	|
 |:-----:|:-----:|:--------:|:------:|
 | Tetrahedron | 4 | 6 | 1 |
 | Octohedron | 6 | 12 | 2 |
 | Cube | 8 | 12 | 4 |
-| Isohedron | 12 | 30 | 256 |
+| Isohedron | 12 | 30 | 256 | 2560
 | Dodecahedron | 20 | 30 | 2048 |
 
 https://anydice.com/ by Jasper Flick
