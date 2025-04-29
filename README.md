@@ -37,7 +37,7 @@ The artifact will follow the tethered player.
 | 743   | **dark** | stone | ICN tech | 
 | 313   |  **seer** | stone | Talkin.net |
 | 273   | **print** | stone | Harken co. |
-| 412   | **platonic** | stone | Schell corp. |
+| 412   | **gate** | stone | Schell corp. |
 
 #### Dark
   _A seemingly sentiant caretaker that controls substation functionality. Linguists have spent decades attempting to decompile its image but little progress has been made_.
