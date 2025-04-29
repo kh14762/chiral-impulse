@@ -54,7 +54,7 @@ The artifact will follow the tethered player.
 
   #### Print
   _Player is equipped with a printstone. The relationsip between them is binding_.
-  - contains a set of place-able platonic stones, move-able only by the owning player.
+  - contains a set of place-able gate stones, move-able only by the owning player.
   - is capable of constructing gate stones in a 1 turn step (ts) & a perfect copy of itself in 4 (ts).
   - cube.
 
@@ -64,7 +64,7 @@ The artifact will follow the tethered player.
    - 5 configurations
 
 **Ordered by cost**
- | Platonic Solid | Vertices | Edges | Unique Hamiltonian Cycles? | Hamiltonian cycle count	|
+ | Name | Vertices | Edges | Unique Hamiltonian Cycles? | Hamiltonian cycle count	|
 |:-----:|:-----:|:--------:|:------:|:------:|
 | Tetrahedron | 4 | 6 | 1 | |
 | Octohedron | 6 | 12 | 2 | |
@@ -74,10 +74,9 @@ The artifact will follow the tethered player.
 
 https://anydice.com/ by Jasper Flick
   - adding the stone's outputs can produce distribution curves.
-  - distribution can be shaped by applying functions to logical constraints
-  - Each Hamiltonian Cycle is a vecter path that is constrained to the geometry
-  - Finding symmetry is key.
-  - vertice & edge can be assigned weights.
+  - distributions can be shaped by applying functions to logical constraints
+  - Each Hamiltonian Path is a collection of vectors that are constrained to the geometry (Open)
+  - Each Emiltonian Circuit is a collection of vectors that are constrained to the geometry (Closed)
 ```
 
 ```
