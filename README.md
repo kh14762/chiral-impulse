@@ -65,19 +65,23 @@ _Artifacts are expressed as phantom, Opaque, Objects. They are said to be long l
    - A stone that can relay interactions between artifacts and players
 
 **Ordered by cost**
- | Gate | Vertices | Edges | Unique Hamiltonian Cycles? | Hamiltonian cycle count	|
-|:-----:|:-----:|:--------:|:------:|:------:|
-| **Tetrahedron** | 4 | 6 | 1 | |
-| **Octohedron** | 6 | 12 | 2 | |
-| **Cube** | 8 | 12 | 4 | |
-| **Isohedron** | 12 | 30 | 256 | 2560 |
-| **Dodecahedron** | 20 | 30 | 2048 | 2048 |
+?not sure about these n
+_Both Paths(open/0) & Circuits(closed/1) are hamiltonian_
+ | Gate | Vertices | Edges | Paths | Unique Circuits? | Total? |
+|:-----:|:-----:|:--------:|:------:|:------:|:------:|
+| **Tetrahedron** | 4 | 6 | | 1 | |
+| **Octohedron** | 6 | 12 | | 2 | |
+| **Cube** | 8 | 12 | | 4 | |
+| **Isohedron** | 12 | 30 | | 256 | 2560 |
+| **Dodecahedron** | 20 | 30 | | 2048 | 2048 |
+
+- Every platonic solid, considered as a graph, is Hamiltonian
 
 https://anydice.com/ by Jasper Flick
   - adding the stone's outputs can produce distributed outcomes.
   - distributions can be shaped by applying functions to logical constraints
-  - Each Hamiltonian Path is a collection of vectors that are constrained to the geometry (Open/Off/0)
-  - Each Hamiltonian Circuit is a collection of vectors that are constrained to the geometry (Closed/On/1)
+  - Each Path is a collection of point vectors that are constrained to the geometry (Open/Off/0)
+  - Each Circuit is a collection of directional vectors that are constrained to the geometry (Closed/On/1)
 ```
 
 ```
