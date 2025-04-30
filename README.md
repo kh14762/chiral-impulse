@@ -73,13 +73,13 @@ edges);_
  - _Hamiltonian path ~ a path that visits every vertex (n−1 edges)._
 
 **Ordered by cost**
- | Gate | Vertices | Edges | Paths | Unique Circuits? | Circuits? | 
+ | Gate | Vertices | Edges | Paths | Unique Circuits | Total Circuits | 
 |:-----:|:-----:|:--------:|:------:|:------:|:------:|
-| **Tetrahedron** | 4 | 6 | | 1 | |
-| **Octohedron** | 6 | 12 | | 2 | |
-| **Cube** | 8 | 12 | | 4 | |
-| **Isohedron** | 12 | 30 | | 256 | 2560 |
-| **Dodecahedron** | 20 | 30 | | 2048 | 2048 |
+| **Tetrahedron** | 4 | 6 | | 1 | 3 |
+| **Octohedron** | 6 | 12 | | 2 | 6 |
+| **Cube** | 8 | 12 | | 1 | 16 |
+| **Isohedron** | 12 | 30 | | 17 | 2560 |
+| **Dodecahedron** | 20 | 30 | | 1 | 60 |
 
 - Every platonic solid, considered as a graph, is Hamiltonian
 
