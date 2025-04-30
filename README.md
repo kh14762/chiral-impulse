@@ -73,7 +73,7 @@ edges);_
  - _Hamiltonian path ~ a path that visits every vertex (n−1 edges)._
 
 **Ordered by cost**
- | Gate | Vertices | Edges | Paths | Unique Circuits | Total Circuits | 
+ | Gate | Vertices | Edges | Paths | Unique Up to Symmetry | Total Undirected Hamiltonian Cycles (Non-unique) | 
 |:-----:|:-----:|:--------:|:------:|:------:|:------:|
 | **Tetrahedron** | 4 | 6 | | 1 | 3 |
 | **Octohedron** | 6 | 12 | | 2 | 6 |
