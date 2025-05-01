@@ -77,7 +77,7 @@ edges);_
 |:-----:|:-----:|:--------:|:------:|:------:|:------:|
 | **Tetrahedron** | 4 | 6 | | 1 | 3 |
 | **Octohedron** | 6 | 12 | | 2 | 6 |
-| **Cube** | 8 | 12 | | 1 | 16 |
+| **Cube** | 8 | 12 | 60/22 | 1 | 16 |
 | **Isohedron** | 12 | 30 | | 17 | 2560 |
 | **Dodecahedron** | 20 | 30 | | 1 | 60 |
 
@@ -90,6 +90,9 @@ https://anydice.com/ by Jasper Flick
 ```
 
 ```
+## Art
+![Screenshot from 2025-04-30 21-28-06](https://github.com/user-attachments/assets/f6a26ae2-2b2c-481b-807e-50ae8e3a6fa6)
+
 
 
 
