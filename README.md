@@ -93,6 +93,9 @@ https://anydice.com/ by Jasper Flick
 ## Art
 ![Screenshot from 2025-04-30 21-28-06](https://github.com/user-attachments/assets/f6a26ae2-2b2c-481b-807e-50ae8e3a6fa6)
 
+![Screenshot from 2025-05-03 14-20-23](https://github.com/user-attachments/assets/81ca7619-796b-4e69-9af4-de8a1bd7fd27)
+
+
 
 
 
