@@ -58,7 +58,7 @@ _Artifacts are expressed as phantom, Opaque, Objects. They are said to be long l
   #### Print
   _Player is equipped with a printstone. The relationsip between them is binding_.
   - contains a set of place-able gate stones, move-able only by the owning player.
-  - is capable of constructing gate stones in a 3 turn step (ts) & a copy of itself in 7 (ts).
+  - is capable of constructing a vertice or edge in 1 turn step (ts) & a copy of itself in 7 (ts).
   - **Cube**.
 
   #### Gate
