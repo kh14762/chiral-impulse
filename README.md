@@ -1,20 +1,20 @@
 # chiral-impulse
-co-operative game
+a game
   You are a group composed of founders, explorers, & sojourners attempting to bring economic prosperity to your country & allies. Adorned with an array of coats, arms, & hats, You must dive into the vast deep, searching for artifacts and resources to fund your colonization complex. 
 
 ## Abstract Concepts
 ### Countries & Allience's
-  Each Player must pledge to country. They may Ally with any other country of their choosing, but must take into consideration the downstream political effects. 
+  Each Player must fly a national flag.
 ### Player Agency
-  Each Player must balance the effects of their actions, not withstanding those of maximum harmony or dissonance. 
+  Each Player must use their toolset to gain advantages.
 ### Aviary
   Each Player must pledge to a bird house. 
 ### Monolith 
   recurring set of geometry within the game, represents themes of morality, reflection, and power
 
-## Implemented Game Objects 
-#### Globe
-  Each Player starts at home. Earth.
+## Scenes 
+#### Landscape
+  Each Player starts at home.
 #### Vessal
   A cynlindrical vessal composed of different submodules (capsul + cabin + propulsion).
 #### SubStation
