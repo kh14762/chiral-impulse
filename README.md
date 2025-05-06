@@ -95,6 +95,7 @@ https://anydice.com/ by Jasper Flick
 
 ![Screenshot from 2025-05-03 14-20-23](https://github.com/user-attachments/assets/81ca7619-796b-4e69-9af4-de8a1bd7fd27)
 
+![Screenshot from 2025-05-05 20-16-13](https://github.com/user-attachments/assets/6511dcb6-2daf-4d0b-afad-f6a82c512316)
 
 
 
