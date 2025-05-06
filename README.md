@@ -1,20 +1,25 @@
 # chiral-impulse
-a game
-  You are a group composed of founders, explorers, & sojourners attempting to bring economic prosperity to your country & allies. Adorned with an array of coats, arms, & hats, You must dive into the vast deep, searching for artifacts and resources to fund your colonization complex. 
+  You are a group composed of founders, explorers, & sojourners attempting to bring economic prosperity to your country & allies. You must dive into the vast deep, searching for artifacts and resources to fund your colonization complex. 
 
 ## Abstract Concepts
 ### Countries & Allience's
   Each Player must fly a national flag.
 ### Player Agency
-  Each Player must use their toolset to gain advantages.
+  Each Player must use their mind to gain advantages.
 ### Aviary
   Each Player must pledge to a bird house. 
 ### Monolith 
   recurring set of geometry within the game, represents themes of morality, reflection, and power
 
 ## Scenes 
-#### Landscape
-  Each Player starts at home.
+#### Main
+  - A menue that allows the player to navigate to the settings page, exit, & start the pathway to the lobby.
+  - lobby path: (username -> flag picker -> ~~character creation~~ -> Lobby.tscn)
+
+#### Lobby
+  - An empty Scene for now.
+
+
 #### Vessal
   A cynlindrical vessal composed of different submodules (capsul + cabin + propulsion).
 #### SubStation
