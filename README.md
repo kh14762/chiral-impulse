@@ -16,8 +16,7 @@ The game starts in darkness; however, players may hover over the grid-board, Eac
 | bird | Bird.cs | Phantom |
 
 ### Script Constraints
-- inherits from Node.
-- able to be dragged onto empty Node without any other scene graph dependencies.
+- inherits from Node3D.
 - accept editor imports.
 - make use of signals to communicate state with other objects.
 
