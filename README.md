@@ -1,2 +1,1 @@
-Moving to mdbook
-![Screenshot from 2025-05-07 21-16-29](https://github.com/user-attachments/assets/c08bbd6b-1f9e-4ce1-bfb6-231a1828a6db)
+You are a blind survayer looking for a misplaced book containing ideas for gameplay. Help him navigate a series of linked rooms that mimic the structure of a tree.
