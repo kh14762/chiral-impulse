@@ -9,10 +9,9 @@ The object of the game is to navigate a cell matrix. Each level has a beginning 
 | bird | Bird.cs | 
 
 ### Script Constraints
-- inherits from Node3D.
+- inherits from Node.
 - able to be dragged onto empty node3D without any other scene graph dependencies.
 - accept editor imports.
-- make use of an abstract factory / builder that is responsible for customizable-instantiation only.
 - make use of signals to communicate state with other objects.
 
   
