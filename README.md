@@ -10,8 +10,10 @@ The game starts in darkness; however, players may mouse over the empty grid-boar
 ### SceneGraph Matrix
 | **Piece** | **Script** |
 | --- | --- |
-| print-stone | PrintStone.cs | 
-| bird | Bird.cs | 
+| PrintStone | PrintStone.cs | 
+| Bird | Bird.cs | 
+| Camera3D | OrbitCamera.cs | 
+| Board | Chessboard.cs |
 
 ### Action Matrix
 **The bird can store snapshots of each cell that it moves over to a limit. if the bird moves into the print-stone's square then the stored snapshots are rendered**
@@ -20,7 +22,7 @@ The game starts in darkness; however, players may mouse over the empty grid-boar
 | print-stone | render | 
 | bird | CaptureImage, StoreImage, ReleaseImageStore | 
 
-- each object takes a space on the board; however, the bird may share space with other pieces while player & print-stones cannot.
+- each object takes a space on the board; however, the bird may share space with other pieces while print-stones cannot.
 
 - At the end of the game. 7 score points are added to the winning players tally while 7 points are deducted from the losing player.
 - The winning player may add the captured bird to his aviary. 
