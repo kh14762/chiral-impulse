@@ -10,7 +10,7 @@ The object of the game is to navigate a cell matrix. Each level has a beginning 
 
 ### Script Constraints
 - inherits from Node.
-- able to be dragged onto empty node3D without any other scene graph dependencies.
+- able to be dragged onto empty Node without any other scene graph dependencies.
 - accept editor imports.
 - make use of signals to communicate state with other objects.
 
