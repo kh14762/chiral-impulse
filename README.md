@@ -15,11 +15,6 @@ The game starts in darkness; however, players may hover over the grid-board, Eac
 | player | Player.cs | Knight/Bishop |
 | bird | Bird.cs | Phantom |
 
-### Script Constraints
-- inherits from Node3D.
-- accept editor imports.
-- make use of signals to communicate state with other objects.
-
   
 
 
