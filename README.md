@@ -4,8 +4,7 @@ The object of the game is to render the other player's opaque bird with your pri
 
 Only the print-stone's owner can view its output. The game immediately ends when you render the cell that the bird placed on.
 
-The game starts in darkness; however, players may mouse over the empty grid-board, Each turn-step a player may make an action.
-- move a piece.
+The game starts in darkness; however, players may mouse over the empty grid-board, Each turn-step a player may move one of their pieces. 
 
 ### SceneGraph Matrix
 | **Piece** | **Script** |
