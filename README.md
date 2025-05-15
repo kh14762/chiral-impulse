@@ -1,2 +1,2 @@
-You are a blind surveyor looking for buried tome. Help him navigate a series of linked topology that mimics the structure of a tree.
+You are a surveyor equipped with a print-stone & a small bird that fits in the hallow of your hand. You are blind.
 
