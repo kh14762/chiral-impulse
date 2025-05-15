@@ -3,7 +3,7 @@ The object of the game is to navigate a cell matrix. Each level has a beginning 
 
 ### SceneGraph Matrix
 | **Objects** | **Script** | **Tertiary Function** |
-| --- | --- | 
+| --- | --- | --- |
 | print-stone | PrintStone.cs | OrbitCamera |
 | player | Player.cs | Knight/Bishop |
 | bird | Bird.cs | Phantom |
