@@ -27,6 +27,16 @@ The game starts in darkness; however, players may mouse over the empty grid-boar
 - The winning player may add the captured bird to his aviary. 
 - A player may resign at any time resulting in a loss.
 
+The Printer is capable of constructing n-gones given enough energy & matter harvested from the landscape.
+| **n-gone stone ** | 
+| --- |
+| Pawn | 
+| Knight | 
+| Bishop | 
+
+the landscapes mean & topological value will change as it is harvested by a print stone.
+
+
   
 
 
