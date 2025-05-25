@@ -20,8 +20,7 @@ The game starts in darkness; however, players may mouse over the empty grid-boar
 | --- | --- | 
 | print-stone | Render, Construct  | 
 | bird | Capture, Store, Release | 
-
-- each object takes a space on the board; however, the bird may share space with other pieces while print-stones cannot.
+**Stones Cannot Share Squares**
 
 - At the end of the game. 7 score points are added to the winning players tally while 7 points are deducted from the losing player.
 - The winning player may add the captured bird to his aviary. 
