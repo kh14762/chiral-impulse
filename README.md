@@ -11,15 +11,15 @@ The game starts in darkness; however, players may mouse over the empty grid-boar
 | --- | --- |
 | PrintStone | PrintStone.cs | 
 | Bird | Bird.cs | 
-| Camera3D | OrbitCamera.cs | 
+| Camera2D | Camera.cs | 
 | Board | Chessboard.cs |
 
 ### Action Matrix
 **The bird can store snapshots of each cell that it moves over to a limit. if the bird moves into the print-stone's square then the stored snapshots are rendered**
 | **Piece** | **Action** | 
 | --- | --- | 
-| print-stone | render | 
-| bird | CaptureImage, StoreImage, ReleaseImageStore | 
+| print-stone | Render, Construct  | 
+| bird | Capture, Store, Release | 
 
 - each object takes a space on the board; however, the bird may share space with other pieces while print-stones cannot.
 
@@ -34,7 +34,7 @@ The Printer is capable of constructing n-gones given enough energy & matter harv
 | Knight | 
 | Bishop | 
 
-the landscapes mean & topological value will change as it is harvested by a print stone.
+the landscape's mean & topological value will change as it is harvested by a print stone.
 
 
   
