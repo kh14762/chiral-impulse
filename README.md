@@ -35,7 +35,7 @@ The Printer is capable of constructing n-gones given enough energy & matter harv
 | Knight | 
 | Bishop | 
 
-the landscape's mean & topological value will change as it is harvested by a print stone.
+the landscape's mean value will change as it is harvested by a print stone.
 
 
   
