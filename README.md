@@ -29,11 +29,11 @@ The game starts in darkness; however, players may mouse over the empty grid-boar
 - A player may resign at any time resulting in a loss.
 
 The Printer is capable of constructing n-gones given enough energy & matter harvested from the landscape.
-| **n-gone stone** | 
-| --- |
-| Pawn | 
-| Knight | 
-| Bishop | 
+| **n-gone stone** | abillity |
+| --- | :---: |
+| Pawn | |
+| Knight | crit-pipe |
+| Bishop | scan |
 
 the landscape's mean value will change as it is harvested by a print stone.
 
